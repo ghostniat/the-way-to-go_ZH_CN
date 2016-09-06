@@ -9,7 +9,7 @@
 
 ## 翻译进度
 
-11.12 [接口与动态类型](eBook/11.12.md)
+14.6 [协程和恢复（recover）](eBook/14.6.md)
 
 ## 支持本书
 
@@ -36,6 +36,8 @@
 	- [@domainname](https://github.com/domainname)
 	- [@leisore](https://github.com/leisore)
 	- [@dake](https://github.com/dake)
+	- [@glight2000](https://github.com/glight2000)
+	- [@songleo](https://github.com/songleo)
 
 ## 授权许可
 

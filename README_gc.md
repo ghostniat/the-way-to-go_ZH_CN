@@ -18,6 +18,8 @@
 - [@domainname](https://github.com/domainname)
 - [@leisore](https://github.com/leisore)
 - [@dake](https://github.com/dake)
+- [@glight2000](https://github.com/glight2000)
+- [@songleo](https://github.com/songleo)
 
 ## 适用人群
 
@@ -30,4 +32,4 @@ Golang 编程：245386165
 
 |更新日期    |更新内容
 |----------|------------------
-|2015-11-07|11.12 接口与动态类型
+|2015-1-6|14.6 协程和恢复（recover）
